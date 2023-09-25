@@ -6,7 +6,7 @@
 I am an undergraduate student majoring in computer science, currently in my third year at BINUS University. With an open-minded and determined disposition, along with an interest in technology, particularly in data analysis, data engineering and artificial intelligence, I am eager to grow by expanding my experience towards my interests.
 - 👨‍💻 All of my projects are available at [https://github.com/eugeniapramesti](https://github.com/eugeniapramesti)
 
-- 📫 How to reach me **eugenia301003@gmail.com**
+- 📫 You can reach me on **eugenia301003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
